@@ -18,7 +18,6 @@ An AI-powered Medical Chatbot built as a Jupyter Notebook that provides symptom 
 - **Libraries:** Hugging Face Transformers, LangChain
 
 ## How to Run
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/Reddy-02/Medical-Chatbot.git
