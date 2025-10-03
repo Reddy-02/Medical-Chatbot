@@ -32,6 +32,7 @@ An AI-powered Medical Chatbot built as a **Jupyter Notebook** that provides symp
 4.Run all cells to start interacting with the chatbot.
 
 What I Learned
+
 Seeing chunking, embeddings, vector stores, and LLM reasoning come together to create a tangible healthcare solution was incredibly rewarding. This project reinforced how AI can bridge gaps in healthcare accessibility, providing quick, reliable guidance to those who need it most.
 
 This experience strengthened my skills in LLMs, embeddings, LangChain, vector databases, and AI-driven knowledge retrieval, aligning with my vision of building practical, real-world AI solutions.
